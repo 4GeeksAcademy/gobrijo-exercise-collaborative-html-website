@@ -31,3 +31,27 @@ h4 {
   font-size: 40px;
   background-color: rgb(218, 224, 231);
 }
+h2, h4 {
+    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    letter-spacing: -1px;
+  }
+  .img-projeto {
+    width: 100%;
+    height: auto;
+  }
+
+ .label-direita {
+    text-align: right;
+    font-weight: bold;
+    font-size: 14px;
+ }
+
+  .conteudo-contacto {
+    max-width: 800px;
+    margin-left: auto; 
+    margin-right: auto;
+  }
+  .button {
+    text-align: right;
+
+  }
