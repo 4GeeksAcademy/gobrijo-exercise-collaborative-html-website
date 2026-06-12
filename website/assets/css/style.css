@@ -20,6 +20,7 @@ h4 {
   justify-content: center;
   align-items: flex-start;
   padding-top: 50px;
+  object-fit: cover;
 }
 
 .titulo1 {
@@ -30,6 +31,10 @@ h4 {
 .titulo2 {
   font-size: 40px;
   background-color: rgb(218, 224, 231);
+}
+.navbar{
+    margin: 0;
+    padding: 0;
 }
 h2, h4 {
     font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
