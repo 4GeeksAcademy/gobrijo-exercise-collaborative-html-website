@@ -1,3 +1,36 @@
+h2,
+h4 {
+  font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  letter-spacing: -1px;
+}
+
+.img-projeto {
+  width: 100%;
+  height: auto;
+}
+
+.jumbotron {
+  background-image: url(https://nuevayork.travel/wp-content/uploads/2013/03/Manhattan1.jpg);
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  height: 600px;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+  padding-top: 50px;
+}
+
+.titulo1 {
+  font-size: 80px;
+  background-color: rgb(218, 224, 231);
+}
+
+.titulo2 {
+  font-size: 40px;
+  background-color: rgb(218, 224, 231);
+}
 h2, h4 {
     font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
     letter-spacing: -1px;
